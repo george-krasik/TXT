@@ -1,1 +1,10 @@
-
+Environment
+Title
+Steps
+Expected Result
+Actual Result
+License
+Role
+Link
+Bug Started
+Severity
