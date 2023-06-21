@@ -1,0 +1,5 @@
+1) Terminal
+2) DevTools
+3) Postman
+4) SQL
+5) etc
